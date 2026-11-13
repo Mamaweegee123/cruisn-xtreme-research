@@ -1,13 +1,13 @@
 path	bytes	sha256	origin	license/content classification
-CONTRIBUTING.md	696	523973d60a02c0ed21dad23aae8893f74f171106f9b576d7c867aff629c6143b	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
-CRUISN_WORLD_PC_HANDOFF.md	5620	d8399cef608bbd290e9ba61012b2e7002f98f436ef682aa3768cb525d9f62a3f	new project PC development handoff, based on previously verified private findings	owner-directed original documentation; MIT candidate under scoped license
-DEVELOPMENT_STATUS.md	2036	5969963b698db9b010bb8f064026b20aa812ddd71b8943ade0cfd83b176ade96	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
+CONTRIBUTING.md	696	523973d60a02c0ed21dad23aae8893f74f171106f9b576d7c867aff629c6143b	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
+CRUISN_WORLD_PC_HANDOFF.md	5620	d8399cef608bbd290e9ba61012b2e7002f98f436ef682aa3768cb525d9f62a3f	new project PC development handoff, based on previously verified private findings	owner-directed original documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
+DEVELOPMENT_STATUS.md	2036	5969963b698db9b010bb8f064026b20aa812ddd71b8943ade0cfd83b176ade96	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
 LICENSE-MIT	1073	d1d76ee916a60ba314121d2846941fd641ad4abb21c53476862d31784a239ee8	prepared from approved MIT wording	scoped MIT text; only applies to listed eligible original files
-LICENSING_SCOPE.md	577	9592fc1fa339f5830b626c99d0484b141d19066dbc4ae5be2f2259f621b3d0be	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
-README.md	2659	7d60d294e8cbef1235d9821bb8fccfb91be1d96e453e2cbdd8256095236c2c2e	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
-RESEARCH_INDEX.md	2072	d875e5a881302e0c565c670aa292a53346c67c19a1ecc258f97df743ae63e49a	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
-ROADMAP.md	1585	231961757fbd8c69f378eda3903237070482d26da7525edcee50da9badfa89ce	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
+LICENSING_SCOPE.md	577	9592fc1fa339f5830b626c99d0484b141d19066dbc4ae5be2f2259f621b3d0be	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
+README.md	2659	7d60d294e8cbef1235d9821bb8fccfb91be1d96e453e2cbdd8256095236c2c2e	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
+RESEARCH_INDEX.md	2072	d875e5a881302e0c565c670aa292a53346c67c19a1ecc258f97df743ae63e49a	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
+ROADMAP.md	1585	231961757fbd8c69f378eda3903237070482d26da7525edcee50da9badfa89ce	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
 THIRD_PARTY_LICENSES/GBARecomp-POLYFORM-NONCOMMERCIAL-1.0.0.txt	3855	5299c743afb90ac7c82a662f3c2e1eafc9adaced7f8d89158566d66668e55f19	verbatim upstream notice copied from existing staged export	third-party license notice; no relicensing
-THIRD_PARTY_NOTICES.md	869	c69499e68ede7f290260b1f4ccc80107bc63b7334560baf6b33641573b355d12	new project handoff documentation	owner-directed documentation; MIT candidate under scoped license
+THIRD_PARTY_NOTICES.md	869	c69499e68ede7f290260b1f4ccc80107bc63b7334560baf6b33641573b355d12	new project handoff documentation	owner-directed documentation; scoped MIT grant as described in LICENSING_SCOPE.md, to the extent owner is entitled to license
 FILE_MANIFEST.tsv	-	-	self-referential metadata	self-hash intentionally omitted
 SHA256SUMS	-	-	checksum metadata	self-hash intentionally omitted
