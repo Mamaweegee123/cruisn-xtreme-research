@@ -6,14 +6,14 @@ An unofficial, community-oriented preservation and development archive. It is no
 
 ## Project map
 
-The five planned public repositories are prepared for review and pending publication approval. No GitHub URLs are listed until the actual repositories are created and verified.
+The five source-only developer handoffs are published below. The research repository is the central project hub.
 
 - Cruis’n World PC recompilation — privately archived; no PC source export or executable is supplied here. The filtered source candidate is incomplete and is not corresponding source for the tested binary. See the [PC development handoff](CRUISN_WORLD_PC_HANDOFF.md).
-- Cruis’n World 3DS ARM11 — publication pending; incomplete software-RDP experiment with partial Azahar graphics/framebuffer evidence and no playable race.
-- Cruis’n World 3DS RT64 — publication pending; separate incomplete feasibility experiment with the RT64 bridge disconnected from the authentic game-render path.
-- Cruis’n World Vita — publication pending; experimental source handoff, with visible gameplay unverified.
-- Cruis’n Xtreme Launcher — publication pending; source-only developer preview, not a packaged player application.
-- Cruis’n Xtreme Research — this documentation hub.
+- [Cruis’n Xtreme Launcher](https://github.com/Mamaweegee123/cruisn-xtreme-launcher) — source-only preview; it does not include a packaged player application.
+- [Cruis’n World 3DS ARM11](https://github.com/Mamaweegee123/cruisn-world-3ds) — experimental source handoff; not playable.
+- [Cruis’n World 3DS RT64](https://github.com/Mamaweegee123/cruisn-world-3ds-rt64) — experimental rendering research; bridge remains disconnected from the authentic game-render path.
+- [Cruis’n World Vita](https://github.com/Mamaweegee123/cruisn-world-vita) — experimental source handoff; visible gameplay is unverified.
+- [Cruis’n Xtreme Research](https://github.com/Mamaweegee123/cruisn-xtreme-research) — this central documentation hub.
 
 ## Research entry points
 
@@ -24,4 +24,4 @@ The five planned public repositories are prepared for review and pending publica
 
 ## Start here
 
-Read [development status](DEVELOPMENT_STATUS.md), [research index](RESEARCH_INDEX.md), [roadmap](ROADMAP.md), [contributor guide](CONTRIBUTING.md), [licensing scope](LICENSING_SCOPE.md), and [third-party notices](THIRD_PARTY_NOTICES.md). Add repository links only after publication approval and verification of the actual GitHub URLs.
+Read [development status](DEVELOPMENT_STATUS.md), [research index](RESEARCH_INDEX.md), [roadmap](ROADMAP.md), [contributor guide](CONTRIBUTING.md), [licensing scope](LICENSING_SCOPE.md), and [third-party notices](THIRD_PARTY_NOTICES.md).
