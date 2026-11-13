@@ -6,14 +6,14 @@ An unofficial, community-oriented preservation and development archive. It is no
 
 ## Project map
 
-Repository destinations below are placeholders until approved repositories exist; they are not live URLs.
+The five planned public repositories are prepared for review and pending publication approval. No GitHub URLs are listed until the actual repositories are created and verified.
 
-- [Cruis’n World Recompiled](https://github.com/OWNER/cruisn-world-recompiled) — the most mature port; a local November 5 checkpoint was mechanically tested, but the source candidate is incomplete and the binary is not cleared for distribution. See the [PC development handoff](CRUISN_WORLD_PC_HANDOFF.md).
-- [Cruis’n World 3DS ARM11](https://github.com/OWNER/cruisn-world-3ds) — incomplete software-RDP experiment; partial Azahar graphics/framebuffer evidence, no playable race.
-- [Cruis’n World 3DS RT64](https://github.com/OWNER/cruisn-world-3ds-rt64) — separate incomplete feasibility experiment; RT64 bridge remains disconnected.
-- [Cruis’n World Vita](https://github.com/OWNER/cruisn-world-vita) — experimental source; early runtime/graphics task activity was logged, but visible gameplay is unverified.
-- [Cruis’n Xtreme Launcher](https://github.com/OWNER/cruisn-xtreme-launcher) — source-only developer preview, not a packaged player application.
-- [Cruis’n Xtreme Research](https://github.com/OWNER/cruisn-xtreme-research) — this documentation hub.
+- Cruis’n World PC recompilation — privately archived; no PC source export or executable is supplied here. The filtered source candidate is incomplete and is not corresponding source for the tested binary. See the [PC development handoff](CRUISN_WORLD_PC_HANDOFF.md).
+- Cruis’n World 3DS ARM11 — publication pending; incomplete software-RDP experiment with partial Azahar graphics/framebuffer evidence and no playable race.
+- Cruis’n World 3DS RT64 — publication pending; separate incomplete feasibility experiment with the RT64 bridge disconnected from the authentic game-render path.
+- Cruis’n World Vita — publication pending; experimental source handoff, with visible gameplay unverified.
+- Cruis’n Xtreme Launcher — publication pending; source-only developer preview, not a packaged player application.
+- Cruis’n Xtreme Research — this documentation hub.
 
 ## Research entry points
 
@@ -24,4 +24,4 @@ Repository destinations below are placeholders until approved repositories exist
 
 ## Start here
 
-Read [development status](DEVELOPMENT_STATUS.md), [research index](RESEARCH_INDEX.md), [roadmap](ROADMAP.md), [contributor guide](CONTRIBUTING.md), [licensing scope](LICENSING_SCOPE.md), and [third-party notices](THIRD_PARTY_NOTICES.md). Placeholder repository URLs must be replaced only after those repositories are actually approved and published.
+Read [development status](DEVELOPMENT_STATUS.md), [research index](RESEARCH_INDEX.md), [roadmap](ROADMAP.md), [contributor guide](CONTRIBUTING.md), [licensing scope](LICENSING_SCOPE.md), and [third-party notices](THIRD_PARTY_NOTICES.md). Add repository links only after publication approval and verification of the actual GitHub URLs.
